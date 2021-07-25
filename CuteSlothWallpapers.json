@@ -2,7 +2,7 @@
   "username": "parallaxwallaper",
   "album": [
     "CuteSloth"
-  	],
+    ],
   "init_jumlah_photo": 100,
   "pub_id": "pub-2709570304669027",
   "app_id": "ca-app-pub-2709570304669027~3735906782",
@@ -26,7 +26,8 @@
   "mopub_native_id": "",
 
   "interstitial_inverval": 3,
- "rewarded_photo_inverval": 3,
+   "rewarded_photo_inverval": 3,
+
   "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
